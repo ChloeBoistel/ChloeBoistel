@@ -36,7 +36,7 @@ Take me to church | Hozier
      width="50%"
      src="https://i.redd.it/jekiole5iwe51.png"/>
      
-     <img
+<img
      width="50%"
      src="https://thatshelf.com/wp-content/uploads//2017/05/Preacher-Season-2-Cassidy-1024x682.jpg"/>
 
