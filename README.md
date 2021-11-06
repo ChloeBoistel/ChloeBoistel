@@ -8,7 +8,9 @@
 
 ## Un poco sobre mí
 
-*Nací en La Orotava en ~~1994~~ 1999. ~~Soy graciosa y guapa, no puedo también ser lista.~~*
+Nací en La Orotava en ~~1994~~ 1999. ~~Soy graciosa y guapa, no puedo también ser lista.~~
+Últimamente, mi cabeza es, como dice Bo Burnham en *Welcome to the internet*:
+> > A little bit of everything, all of the time
 
 **Conociéndome**
 Categoría | Mis favoritos
