@@ -8,7 +8,7 @@
 
 ## Un poco sobre mí
 
-*Nací en La Orotava en ~~1994~~ 1999. ~~Soy graciosa y guapa, no puedo también ser lista.~~ *
+*Nací en La Orotava en ~~1994~~ 1999. ~~Soy graciosa y guapa, no puedo también ser lista.~~*
 
 **Conociéndome**
 Categoría | Mis favoritos
