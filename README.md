@@ -8,7 +8,7 @@
 
 ## Un poco sobre mí
 
-*Nací en La Orotava en 1994 1999*
+*Nací en La Orotava ~~1994~~ 1999*
 
 **Conociéndome**
 Categoría | Mis favoritos
