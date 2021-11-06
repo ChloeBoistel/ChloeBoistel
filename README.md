@@ -10,7 +10,7 @@
 
 *Nací en La Orotava en ~~1994~~ 1999. ~~Soy graciosa y guapa, no puedo también ser lista.~~*
 
-**Conociéndome:**
+**Conociéndome**
 Categoría | Mis favoritos
 ------------ | -------------
 Película | Repo Men *(2010)*
