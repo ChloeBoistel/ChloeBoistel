@@ -13,7 +13,12 @@ Color| Naranja
 Evento | Eurovisión
 Director de cine | Ridley Scott
 
-
+**En mi tiempo libre me gusta...**
+* Charlar con amigos
+* Ir al cine
+* Escribir
+* Pasear
+* Ver memes
 
 ## Algunas canciones que ahora me obsesionan
 
