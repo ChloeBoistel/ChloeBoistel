@@ -2,9 +2,13 @@
 
 # Hola 🍑 🎄 🦄 👋
 
-## Hola
+<img
+     width="50%"
+     src="https://i.redd.it/jekiole5iwe51.png"/>
 
-*Saludando desde el espacio*
+## Un poco sobre mí
+
+*Nací en La Orotava en 1994 1999*
 
 **Conociéndome**
 Categoría | Mis favoritos
@@ -22,7 +26,7 @@ Director de cine | Ridley Scott
 * Pasear
 * Ver memes
 
-## Algunas canciones que ahora me obsesionan
+**Algunas canciones que ahora me obsesionan**
 
 Canción | Artista
 ------------ | -------------
