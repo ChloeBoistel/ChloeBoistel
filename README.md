@@ -8,7 +8,7 @@
 
 ## Un poco sobre mí
 
-*Nací en La Orotava ~~1994~~ 1999*
+*Nací en La Orotava en ~~1994~~ 1999. ~~Soy graciosa y guapa, no puedo también ser lista.~~ *
 
 **Conociéndome**
 Categoría | Mis favoritos
@@ -43,10 +43,7 @@ Demons | The All-American Rejects
 Take me to church | Hozier
 
 
-<img
-     width="50%"
-     src="https://i.redd.it/jekiole5iwe51.png"/>
-     
+
 <img
      width="50%"
      src="https://thatshelf.com/wp-content/uploads//2017/05/Preacher-Season-2-Cassidy-1024x682.jpg"/>
