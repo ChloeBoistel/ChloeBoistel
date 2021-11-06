@@ -1,8 +1,38 @@
-### Hi there 👋
+
 
 ## Hola
 
 *Saludando desde el espacio*
+
+**Conociéndome**
+Categoría | Mis favoritos
+------------ | -------------
+Película | Repo Men *(2010)*
+Serie | Preacher *(2016)*
+Color| Naranja
+Evento | Eurovisión
+Director de cine | Ridley Scott
+
+
+
+## Algunas canciones que ahora me obsesionan
+
+Canción | Artista
+------------ | -------------
+Chosen | Måneskin
+Alien | TOMI
+Oh no! | Marina
+GUY.EXE | SUPERFRUIT
+Problematic | Bo  Burnham
+A little party never killed nobody | Fergie
+Go_A | Shum
+10 years | Daði og Gagnamagnið
+Boys | Charlie XCX
+Demons | The All-American Rejects
+Take me to church | Hozier
+
+
+
 
 
 <!--
