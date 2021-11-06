@@ -10,7 +10,7 @@
 
 *Nací en La Orotava en ~~1994~~ 1999. ~~Soy graciosa y guapa, no puedo también ser lista.~~*
 
-**Conociéndome**
+**Conociéndome:**
 Categoría | Mis favoritos
 ------------ | -------------
 Película | Repo Men *(2010)*
@@ -41,7 +41,6 @@ Go_A | Shum
 Boys | Charlie XCX
 Demons | The All-American Rejects
 Take me to church | Hozier
-
 
 
 <img
